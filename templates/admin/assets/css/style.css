@@ -1,0 +1,28 @@
+.error {
+    color: red;
+}
+
+.gallery-images .gallery-item {
+    margin-bottom: 10px;
+}
+
+.debug-wrapper {
+    position: fixed;
+    z-index: 9999999;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100% !important;
+    background: #fff0be;
+}
+
+.slide-warpper .slide-item {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #000;
+}
+
+.skill-wrapper .skill-item {
+    margin-bottom: 15px;
+    border-bottom: 1px solid #000;
+}
